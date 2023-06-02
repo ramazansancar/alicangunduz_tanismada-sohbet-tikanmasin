@@ -37,10 +37,12 @@ function soruSayisiUret() {
     return index;
   }
 }
+
 // Önceki soru kontrolü
 function oncekiSoruKontrol() {
   return soruIndexler.length === 0;
 }
+
 // Önceki soru butonunu kontrol eder
 function oncekiButtonKontrol() {
   if (oncekiSoruKontrol()) {
@@ -49,6 +51,7 @@ function oncekiButtonKontrol() {
     oncekiSoru.style.display = "block";
   }
 }
+
 // XMLHttpRequest (XHR) kullanarak sorular.json dosyasını okuyoruz
 const xhr = new XMLHttpRequest();
 xhr.open("GET", "../json/sorular.json", true);
@@ -99,7 +102,7 @@ soruKopyala.addEventListener("click", function () {
       borderRadius: "10px",
       opacity: 0.95,
       transition: "opacity 0.3s ease-in-out",
-      position: "absolute",
+      position: "fixed",
       top: "0",
       right: "0",
       marginRight: "10px",
