@@ -72,21 +72,24 @@
       </svg>
       <div class="flex flex-wrap items-center gap-y-2 gap-x-4">
         <p class="text-sm leading-6 text-gray-900">
-          <strong class="font-semibold">Open-Source</strong
-          ><svg
+          <strong class="font-semibold">Open-Source</strong>
+          <svg
             viewBox="0 0 2 2"
             class="mx-2 inline h-0.5 w-0.5 fill-current"
             aria-hidden="true"
           >
-            <circle cx="1" cy="1" r="1" /></svg
-          >Projeye destek vermek isterseniz github üzerinden ulaşabilirsiniz.
+            <circle cx="1" cy="1" r="1" />
+          </svg>
+          Projeye destek vermek isterseniz github üzerinden ulaşabilirsiniz.
         </p>
         <a
+          rel="noopener noreferrer"
+          aria-label="GitHub repository for Tanışmada Sohbet Tıkanmasın"
           target="_blank"
           href="https://github.com/alicangunduz/tanismada-sohbet-tikanmasin"
           class="flex-none rounded-full bg-gray-900 py-1 px-3.5 text-sm font-semibold text-white shadow-sm hover:bg-gray-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gray-900"
-          >Repo'ya git <span aria-hidden="true">&rarr;</span></a
-        >
+          >Repo'ya git <span aria-hidden="true">&rarr;</span>
+        </a>
       </div>
       <div class="flex flex-1 justify-end">
         <a id="banner-button" class="-m-3 p-3 cursor-pointer focus-visible:outline-offset-[-4px] ">
@@ -104,11 +107,7 @@
         </a>
       </div>
     </div>
-    <!--end:Banner-->
-    <!--begin:Header-->
     <nav id="header"><img src="assets/logo.svg" alt="" /></nav>
-    <!--end:Header-->
-    <!--begin:Main-->
     <div id="sorularBitti" style="display: none">
       <h1>Sorular bitti aslanım olmuyorsa olmuyordur zorlama</h1>
     </div>
@@ -117,11 +116,13 @@
       <h1 class="text-5xl">Flört zamanı tıkandığında zorlanma, soru üret!</h1>
       <code id="soruAdeti" class="ortala"></code>
       <code id="gecilenSoruAdeti" class="ortala"></code>
+      
+      <label for="kategoriSec" style="font-weight:bold;">Kategori Seç:</label>
+      <select id="kategoriSec" class="kategori-select" style="margin-bottom: 1rem; width:100%; max-width:300px;"></select>
+      
       <div class="question-area">
-        <textarea id="soruAlani" class="soruFont question-box" disabled>
-Soru</textarea
-        >
-        <button class="copy-button" id="soruKopyala">
+        <textarea id="soruAlani" class="soruFont question-box" disabled placeholder="Soru" title="Soru" aria-label="Soru">Soru</textarea>
+        <button class="copy-button" id="soruKopyala" title="Soru Kopyala" aria-label="Soru Kopyala">
           <i class="ri-clipboard-line"></i>
         </button>
       </div>
@@ -146,13 +147,9 @@ Soru</textarea
        </div>
       </div>
     </div>
-    <!--end:Main-->
-    <!--begin:Footer-->
     <footer><p class="crafted-by"></p></footer>
-    <!--end:Footer-->
   </body>
   <script src="./script/main.js"></script>
-  <!-- Toastify -->
   <script
     type="text/javascript"
     src="https://cdn.jsdelivr.net/npm/toastify-js"

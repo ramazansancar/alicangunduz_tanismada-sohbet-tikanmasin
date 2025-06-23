@@ -1,0 +1,1962 @@
+[
+  {
+    "soru": "En sevdiğin tatil beldesi neresi?",
+    "kategori": ["Seyahat ve Keşif"]
+  },
+  {
+    "question": "Kendini bir karaktere benzetseydin, hangisi olurdun?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hayatında en çok neye şükredersin?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "En sevdiğin müzik tarzı hangisi?",
+    "kategori": ["Eğlence ve Medya", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "En çok hangi hayvanı seviyorsun?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "En çok hangi yemek tarzını seversin?",
+    "kategori": ["Yemek ve Mutfak"]
+  },
+  {
+    "soru": "En çok hangi filmden etkilendin?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hayatında başarı olarak gördüğün en büyük anın neydi?",
+    "kategori": ["Geçmiş ve Anılar", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "En sevdiğin kitap nedir?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Seni en çok ne mutlu eder?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi sporu seversin?",
+    "kategori": ["Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi tarihi döneme gitmek istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "En sevdiğin yılbaşı gelenekleri nelerdir?",
+    "kategori": ["Genel Zevkler", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi şehirde yaşamayı hayal edersin?",
+    "kategori": ["Seyahat ve Keşif", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hayatında en çok nelerden keyif alırsın?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi mevsim senin favorin?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "En sevdiğin yemek tarifi nedir?",
+    "kategori": ["Yemek ve Mutfak", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi müze veya sanat galerisini gezmek istersin?",
+    "kategori": ["Sanat ve Kültür", "Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Seni en çok neyin korkutur?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Bir süper güce sahip olabilseydin, hangisini seçerdin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "En sevdiğin renk nedir?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi dili öğrenmek istersin?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi hayat felsefesine sahipsin?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hayatta yapmak istediğin ilk şey nedir?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi sosyal medya platformunda en çok zaman geçiriyorsun?",
+    "kategori": ["Eğlence ve Medya", "Genel Zevkler"]
+  },
+  {
+    "soru": "En sevdiğin çikolata çeşidi hangisi?",
+    "kategori": ["Yemek ve Mutfak"]
+  },
+  {
+    "soru": "En sevdiğin oyun nedir?",
+    "kategori": ["Eğlence ve Medya", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi ülkede yaşamak istersin?",
+    "kategori": ["Seyahat ve Keşif", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "En sevdiğin yabancı film hangisi?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi özelliğinle en çok gurur duyarsın?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi yemek tarzını denemek istersin?",
+    "kategori": ["Yemek ve Mutfak", "Seyahat ve Keşif"]
+  },
+  {
+    "soru": "En sevdiğin müzik aleti hangisi?",
+    "kategori": ["Sanat ve Kültür", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi spor dalını öğrenmek istersin?",
+    "kategori": ["Hobiler ve Spor", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi beceriyi geliştirmek istersin?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi ünlüyle tanışmak istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "En sevdiğin hayvan nedir?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi kitap karakteri seni en çok etkiledi?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "En sevdiğin tatlı çeşidi nedir?",
+    "kategori": ["Yemek ve Mutfak"]
+  },
+  {
+    "soru": "Hangi tarihi figürle konuşmak istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi ünlü tarihi olaya tanıklık eden kişiyle tanışmak isterdin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi ünlü yazarın eserlerini okumayı seversin?",
+    "kategori": ["Eğlence ve Medya", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "En sevdiğin çiçek nedir?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Nerede bir tatil yapmak istersin?",
+    "kategori": ["Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Seni en çok ilgilendiren sosyal mesele nedir?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi spor dalında profesyonel olmak istersin?",
+    "kategori": ["Hobiler ve Spor", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi tarihi olaya tanıklık etmek isterdin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi yabancı dilde daha iyi olmak istersin?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "En sevdiğin çevrimiçi oyun nedir?",
+    "kategori": ["Eğlence ve Medya", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi müzik türünü daha çok dinlersin?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi film karakteriyle arkadaş olmak istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi tatil aktivitesini daha çok seversin?",
+    "kategori": ["Seyahat ve Keşif", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi hayvanın sıradışı özellikleri seni etkiler?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "En sevdiğin hava durumu nedir?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi ilde yaşamak istersin?",
+    "kategori": ["Seyahat ve Keşif", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi sanatçının konserine gitmek istersin?",
+    "kategori": ["Sanat ve Kültür", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi spor etkinliği için seyahat edersin?",
+    "kategori": ["Hobiler ve Spor", "Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Hangi tarihi yerleri gezmek istersin?",
+    "kategori": ["Seyahat ve Keşif", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi doğa harikası seni en çok etkiler?",
+    "kategori": ["Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Hangi filmi defalarca izlemişsindir?",
+    "kategori": ["Eğlence ve Medya", "Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi ülkenin yemeklerini daha çok seversin?",
+    "kategori": ["Yemek ve Mutfak", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi şehirde doğdun?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi yemeği yapmayı öğrenmek istersin?",
+    "kategori": ["Yemek ve Mutfak", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi sanat dalı seni daha çok ilgilendirir?",
+    "kategori": ["Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi ünlüyü rol model olarak görürsün?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "En sevdiğin tatlı hangisi?",
+    "kategori": ["Yemek ve Mutfak"]
+  },
+  {
+    "soru": "Hangi oyun konsolunu tercih edersin?",
+    "kategori": ["Eğlence ve Medya", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi kitap karakterinin yerinde olmak isterdin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi renk seni en çok yansıtır?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi sanat eserine hayranlık duyarsın?",
+    "kategori": ["Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi dili akıcı bir şekilde konuşmak istersin?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Sanat ve Kültür", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi tarihi dönemi daha çok araştırmayı seversin?",
+    "kategori": ["Sanat ve Kültür", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi sporda daha başarılı olduğunu düşünüyorsun?",
+    "kategori": ["Hobiler ve Spor", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi etkinliği daha çok seversin: konser mi yoksa festival mi?",
+    "kategori": ["Sanat ve Kültür", "Eğlence ve Medya", "Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi animasyon filmini izlemeyi en çok seversin?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi mesleği icra etmek istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi özel günü kutlamayı daha çok seversin?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi hayvana benzediğini düşünürsün?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi yabancı ülkede tatil yapmak istersin?",
+    "kategori": ["Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Daha önce bir doğal afet ile karşılaştın mı?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi kişisel gelişim kitabını okumayı planlıyorsun?",
+    "kategori": ["Eğlence ve Medya", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi yazarın biyografisini okumayı tercih edersin?",
+    "kategori": ["Eğlence ve Medya", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi film serisine bayılırsın?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi yılın senin için özel olduğunu düşünüyorsun?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi konuda uzman olmak istersin?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi takımın taraftarısın?",
+    "kategori": ["Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi yemek tariflerini en çok denemek istersin?",
+    "kategori": ["Yemek ve Mutfak", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi sanatçının müziğini daha çok seversin?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi sosyal medya platformunu daha çok kullanırsın?",
+    "kategori": ["Eğlence ve Medya", "Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi emojiyi en sık kullanırsın?",
+    "kategori": ["Genel Zevkler", "İlişkiler ve Sosyal Hayat"]
+  },
+  {
+    "soru": "Hangi köpek cinsini daha çok seversin?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi aşçının yemeklerini denemek istersin?",
+    "kategori": ["Yemek ve Mutfak", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi yılbaşı geleneğini en çok seversin?",
+    "kategori": ["Genel Zevkler", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi şehri gezmek istersin?",
+    "kategori": ["Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Herhangi bir müzik aletini çalmayı öğrenmek ister miydin?",
+    "kategori": ["Hobiler ve Spor", "Sanat ve Kültür", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi tarihi kişiliği yakından tanımak istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi sosyal sorumluluk projesine katılmak istersin?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi festivalde eğlenmeyi tercih edersin?",
+    "kategori": ["Sanat ve Kültür", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi yönlerinle kendini daha çok geliştirmek istersin?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi mutfak kültüründen yemekleri en çok seversin?",
+    "kategori": ["Yemek ve Mutfak", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi sporda en iyi olduğunu düşünürsün?",
+    "kategori": ["Hobiler ve Spor", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "En çok etkilendiğin doğa harikası neydi?",
+    "kategori": ["Seyahat ve Keşif", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi siyasi lideri dinlemek istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi filmi herkesin izlemesi gerektiğini düşünüyorsun?",
+    "kategori": ["Eğlence ve Medya", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi hobilerinle en çok vakit geçirmeyi seversin?",
+    "kategori": ["Hobiler ve Spor", "Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi şirketin CEO'su olmak istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi müzik tarzını en çok dinlersin?",
+    "kategori": ["Eğlence ve Medya", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi eğitim alanında daha fazla bilgi sahibi olmak istersin?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi moda akımını takip edersin?",
+    "kategori": ["Genel Zevkler", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi mevsimi daha çok seversin?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi hayalini gerçekleştirmek için en çok çaba sarf ediyorsun?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi evcil hayvanın sahibi olmak istersin?",
+    "kategori": ["Genel Zevkler", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi felsefi düşüncenin seni en çok etkilediğini düşünüyorsun?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Kendini daha iyi tanığını düşündüğün yönlerin nelerdir?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi dizi karakterinin hayatını yaşamak istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi yemek kültürünün en lezzetli olduğunu düşünüyorsun?",
+    "kategori": ["Yemek ve Mutfak", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi kitabı birçok kez okudun?",
+    "kategori": ["Eğlence ve Medya", "Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi sosyal medya fenomenini takip edersin?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi korkunç film seni en çok etkiledi?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi sürprizleri seversin?",
+    "kategori": ["Genel Zevkler", "İlişkiler ve Sosyal Hayat"]
+  },
+  {
+    "soru": "Hangi ünlü kişiyi canlandırmak istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Bir dil öğrenmek isteseydin bu hangi dil olurdu?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi yaratıcılık becerilerine sahipsin?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Hobiler ve Spor", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi otelde tatil yapmak istersin?",
+    "kategori": ["Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Hangi tarihi olayı değiştirmek isterdin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi eğlence parkında zaman geçirmek istersin?",
+    "kategori": ["Hobiler ve Spor", "Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Hangi süper güce sahip olmak istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi yemek tarifini mükemmelleştirmek istersin?",
+    "kategori": ["Yemek ve Mutfak", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi doğa sporunu denemek istersin?",
+    "kategori": ["Hobiler ve Spor", "Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Hangi renkler seni en çok etkiler?",
+    "kategori": ["Genel Zevkler", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi şarkı sözleri senin için anlamlıdır?",
+    "kategori": ["Eğlence ve Medya", "Sanat ve Kültür", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi meslek dalında başarılı olduğunu düşünüyorsun?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi tarihi dönemde yaşamak istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi yemekleri yapmakta usta olduğunu düşünüyorsun?",
+    "kategori": ["Yemek ve Mutfak", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi çizgi film karakteri seni en çok etkiler?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi çevresel sorunu çözmek istersin?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi hayvanın özelliklerini taşıdığını düşünüyorsun?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi bilim dalı seni en çok ilgilendirir?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi duyguyu en sık yaşarsın?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi dizi veya film setinde çalışmak istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi öğretmenin seni en çok etkiledi?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi özelliğin seni en özgün kılar?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi aksanı konuşmayı öğrenmek istersin?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi kıyafetin sana en yakıştığını düşünüyorsun?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi süper kahramanın seni en çok etkiler?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi korkunç deneyi denemek istemezsin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi spor dalında daha fazla başarılı olmak istersin?",
+    "kategori": ["Hobiler ve Spor", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi tatil aktivitesini denemek istersin?",
+    "kategori": ["Seyahat ve Keşif", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi kitap karakterinin hayatını yaşamak istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "En sevdiğin seyahat destinasyonun neresidir?",
+    "kategori": ["Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Hangi sporda uzmanlaşmak istersin?",
+    "kategori": ["Hobiler ve Spor", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi müze veya galeriyi ziyaret etmek istersin?",
+    "kategori": ["Sanat ve Kültür", "Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Hangi yazarın tüm kitaplarını okudun?",
+    "kategori": ["Eğlence ve Medya", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi yemek tarzını en çok seversin?",
+    "kategori": ["Yemek ve Mutfak"]
+  },
+  {
+    "soru": "Hangi sanat dalında kendini geliştirmek istersin?",
+    "kategori": ["Sanat ve Kültür", "Kişisel Gelişim ve Değerler", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi müzik türünü en çok seversin?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi hayvanın gücünü elde etmek istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi şehrin kültürüne hayransın?",
+    "kategori": ["Sanat ve Kültür", "Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Hangi film karakteri seni en çok etkiler?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi duygunun seni en sık rahatsız ettiğini düşünüyorsun?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi süper güçlerin birleşimini istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi dizi veya filmin seni en çok etkiledi?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi yemek tarifini öğrenmek istersin?",
+    "kategori": ["Yemek ve Mutfak", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi kitabın seni en çok etkiledi?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi doğa harikasını görmek istersin?",
+    "kategori": ["Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Hangi dilde şiir yazmak istersin?",
+    "kategori": ["Sanat ve Kültür", "Hobiler ve Spor", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi video oyunu karakteri seni en çok etkiler?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi deneyi yapmak istemezsin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi tarihi figürün hayatını merak ediyorsun?",
+    "kategori": ["Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi yetenekleri geliştirmek istersin?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi ülkede bir yıl yaşayabileceğini seçmek zorunda olsan hangisini seçerdin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Hangi kurgusal dünyada yaşamak istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi çizgi roman karakteri seni en çok etkiler?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi hayvanı evcilleştirmek istersin?",
+    "kategori": ["Genel Zevkler", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi dilde bir şarkı yazmak istersin?",
+    "kategori": ["Sanat ve Kültür", "Hobiler ve Spor", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi ünlüye benzediğin sıklıkla söylenir?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi hobilerin seni en çok mutlu eder?",
+    "kategori": ["Hobiler ve Spor", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi yemekleri sevmediğini düşünüyorsun?",
+    "kategori": ["Yemek ve Mutfak"]
+  },
+  {
+    "soru": "En son ne zaman kendine bir iyilik yaptın?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Evcil hayvanların olmuş mu hiç? Olmadıysa neden?",
+    "kategori": ["Geçmiş ve Anılar", "Genel Zevkler"]
+  },
+  {
+    "soru": "Hayatındaki en büyük dönüm noktası nedir?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi kültürü öğrenmek istersin ve neden?",
+    "kategori": ["Sanat ve Kültür", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Bir gün içerisinde en çok ne zaman mutlu olursun?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Genel Zevkler"]
+  },
+  {
+    "soru": "Hayatındaki en büyük başarın nedir?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi hayvanı en seversin ve neden?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Bugüne kadar yaptığın en cesur şey nedir?",
+    "kategori": ["Geçmiş ve Anılar", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Yemek yapmayı sever misin? Eğer öyleyse en sevdiğin yemeği yapar mısın?",
+    "kategori": ["Yemek ve Mutfak", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi sporu yapmayı seversin ve neden?",
+    "kategori": ["Hobiler ve Spor"]
+  },
+  {
+    "soru": "Bir filmi veya diziyi tekrar tekrar izleyebiliyor musun? Hangisi?",
+    "kategori": ["Eğlence ve Medya", "Genel Zevkler"]
+  },
+  {
+    "soru": "Hayatında neler seni en çok motive eder?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi kitabı en son okudun? Nasıldı?",
+    "kategori": ["Eğlence ve Medya", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi tatil tipini tercih edersin? Deniz mi, dağ mı yoksa şehir mi?",
+    "kategori": ["Seyahat ve Keşif", "Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi müzik türünü dinlemeyi seversin? Neden?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hayatında izlediğin en iyi film hangisiydi? Neden?",
+    "kategori": ["Eğlence ve Medya", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Bir gün boyunca yapmak istediğin herhangi bir şey nedir?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi ülkeyi ziyaret etmek istersin ve neden?",
+    "kategori": ["Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Hayatında en çok pişman olduğun an nedir?",
+    "kategori": ["Geçmiş ve Anılar", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Sana en çok ne zaman gurur duyulduğunu hissettin?",
+    "kategori": ["Geçmiş ve Anılar", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi spor dalında profesyonel olmak istersin ve neden?",
+    "kategori": ["Hobiler ve Spor", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hayatındaki en unutulmaz anın nedir?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Bir öğretmen senin hayatında nasıl bir rol oynadı?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi yemeği en son yedinde ve nasıldı?",
+    "kategori": ["Yemek ve Mutfak", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "En sevdiğin tatlı nedir?",
+    "kategori": ["Yemek ve Mutfak"]
+  },
+  {
+    "soru": "Hayatta herhangi bir şeyi değiştirebilseydin, neyi değiştirirdin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Gelecekteki hayatında hangi mesleği yapmayı istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hayatındaki en zor kararın neydi ve ne yaptın?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Seni en çok mutlu eden şey nedir?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hayatında bir şeyleri yeniden yapabilseydin, neyi yapardın?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Seni en çok korkutan şey nedir?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Bir film veya dizi karakteriyle kim olmak istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "En sevdiğin şarkı sözü nedir?",
+    "kategori": ["Eğlence ve Medya", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Sana göre arkadaşlığın tanımı nedir?",
+    "kategori": ["İlişkiler ve Sosyal Hayat", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi müzisyenin konserine gitmek isterdin?",
+    "kategori": ["Sanat ve Kültür", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "Seni en çok rahatsız eden davranış nedir?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "İlişkiler ve Sosyal Hayat"]
+  },
+  {
+    "soru": "En sevdiğin çocukluk anın nedir?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "En sevdiğin çizgi film karakteri kimdir?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Gelecekte hangi teknolojik icatlardan yararlanmak istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi yabancı dilde akıcı konuşmak istersin?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Geçmişte yaptığın en büyük hata nedir?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Evinde olması gereken üç temel eşya nedir?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi süper güce sahip olmak isterdin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "En sevdiğin mevsim hangisi ve neden?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "En sevdiğin hayvan hangisidir?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Sana göre en güzel şehir hangisidir?",
+    "kategori": ["Seyahat ve Keşif", "Genel Zevkler"]
+  },
+  {
+    "soru": "En sevdiğin film nedir?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi sanat dalıyla ilgilenmek istersin?",
+    "kategori": ["Sanat ve Kültür", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Geçmişte izlediğin en iyi konser hangisiydi?",
+    "kategori": ["Geçmiş ve Anılar", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "En sevdiğin spor dalı hangisidir?",
+    "kategori": ["Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi sporcuyu idol olarak görürsün?",
+    "kategori": ["Hobiler ve Spor", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Bir gün boyunca yapabileceğin en keyifli şey nedir?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Genel Zevkler"]
+  },
+  {
+    "soru": "En sevdiğin müzik türü hangisi?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hayatında bir değişiklik yapabileceğin dönem hangisi olurdu?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Bir gün boyunca yapamayacağın şey nedir?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Genel Zevkler"]
+  },
+  {
+    "soru": "Sana göre insanların en çok kullandığı yalan nedir?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "İlişkiler ve Sosyal Hayat"]
+  },
+  {
+    "soru": "Hangi sanatçı veya müzik grubunu en çok seversin?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Geçmişte tanıştığın en ilginç kişi kimdi?",
+    "kategori": ["Geçmiş ve Anılar", "İlişkiler ve Sosyal Hayat"]
+  },
+  {
+    "soru": "Hangi konuda daha fazla bilgi edinmek istersin?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "En sevdiğin çiçek hangisidir?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Evcil hayvanın var mı? Var ise hangi tür?",
+    "kategori": ["Genel Zevkler", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Geçmişte katıldığın en ilginç etkinlik nedir?",
+    "kategori": ["Geçmiş ve Anılar", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hayatında en fazla hangi ülkeye seyahat ettin?",
+    "kategori": ["Seyahat ve Keşif", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "En sevdiğin kitap veya yazar kimdir?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Bir gün içinde en sevdiğin yemeklerden üçünü söyler misin?",
+    "kategori": ["Yemek ve Mutfak"]
+  },
+  {
+    "soru": "Ailenle ne sıklıkla görüşüyorsun?",
+    "kategori": ["İlişkiler ve Sosyal Hayat"]
+  },
+  {
+    "soru": "İdeal bir tatil nasıl olmalıdır?",
+    "kategori": ["Seyahat ve Keşif", "Genel Zevkler"]
+  },
+  {
+    "soru": "En sevdiğin film türü nedir?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "En sevdiğin spor dalı nedir?",
+    "kategori": ["Hobiler ve Spor"]
+  },
+  {
+    "soru": "Günlük rutinin nasıl bir şeydir?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Seni en çok motive eden şey nedir?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Sence en iyi özelliğin nedir?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Birlikte zaman geçirmek için en sevdiğin aktivite nedir?",
+    "kategori": ["Hobiler ve Spor", "İlişkiler ve Sosyal Hayat"]
+  },
+  {
+    "soru": "En sevdiğin içki nedir?",
+    "kategori": ["Yemek ve Mutfak"]
+  },
+  {
+    "soru": "Hangi özelliğin seni diğer insanlardan farklı kılar?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "En sevdiğin müzik türü nedir?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Seni mutlu eden en küçük şey nedir?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Genel Zevkler"]
+  },
+  {
+    "soru": "Sana en çok ne zamanlar enerji verir?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi hobilerin var?",
+    "kategori": ["Hobiler ve Spor"]
+  },
+  {
+    "soru": "Aşık olmak senin için ne ifade ediyor?",
+    "kategori": ["İlişkiler ve Sosyal Hayat", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi şehirde yaşamak istersin?",
+    "kategori": ["Seyahat ve Keşif", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Çocukluğunda ne meslek hayal ediyordun?",
+    "kategori": ["Geçmiş ve Anılar", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hayatında aldığın en iyi karar nedir?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi konuda en uzman olduğunu düşünüyorsun?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hayatında en çok eğlendiğin tatil yeri neresiydi?",
+    "kategori": ["Seyahat ve Keşif", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Kendine en güvendiğin konu nedir?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hayatında gördüğün en güzel manzara neresidir?",
+    "kategori": ["Seyahat ve Keşif", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi sanat dalını en çok seversin?",
+    "kategori": ["Sanat ve Kültür"]
+  },
+  {
+    "soru": "Birkaç yıl içinde yapmak istediğin en büyük hayalin nedir?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "En sevdiğin tatil hangisi?",
+    "kategori": ["Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Hangi yemek kültürünü daha çok seversin?",
+    "kategori": ["Yemek ve Mutfak", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi sporu yapmayı seversin?",
+    "kategori": ["Hobiler ve Spor"]
+  },
+  {
+    "soru": "En sevdiğin film hangisi?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Bir kitap önerir misin? Neden?",
+    "kategori": ["Eğlence ve Medya", "İlişkiler ve Sosyal Hayat"]
+  },
+  {
+    "soru": "Hangi müzik tarzını dinlemeyi tercih edersin?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi sanatçı veya grup en sevdiğin?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi çeşit hayvanı en seversin?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Daha önce gitmediğin bir yerde tatil yapmak ister misin? Nereyi önerirsin?",
+    "kategori": ["Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Hangi tarihi dönemi daha çok merak edersin?",
+    "kategori": ["Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi hobiye sahip olmak istersin?",
+    "kategori": ["Hobiler ve Spor", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Daha önce gördüğün en ilginç doğal manzara nedir?",
+    "kategori": ["Seyahat ve Keşif", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi meyveyi en çok seversin?",
+    "kategori": ["Yemek ve Mutfak"]
+  },
+  {
+    "soru": "Hangi sebzeyi en çok seversin?",
+    "kategori": ["Yemek ve Mutfak"]
+  },
+  {
+    "soru": "Bir dil öğrenmek istesen hangisini öğrenmek isterdin? Neden?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi tarihi kişiyi daha çok merak edersin?",
+    "kategori": ["Sanat ve Kültür"]
+  },
+  {
+    "soru": "Bir mucit olsaydın, ne icat etmek isterdin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Daha önce yaptığın en iyi iş nedir?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Bir günün nasıl geçtiğini anlatır mısın?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "En sevdiğin TV dizisi nedir?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi mevsimi en çok seversin?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi renkleri daha çok seversin?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "En son ne zaman kendine bir şey öğrendin?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "En sevdiğin yemek nedir?",
+    "kategori": ["Yemek ve Mutfak"]
+  },
+  {
+    "soru": "Hayatta yapmak istediğin en büyük şey nedir?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Daha önce hiç yabancı bir ülkeye gittin mi? Nereye gittin?",
+    "kategori": ["Seyahat ve Keşif", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi sporları seversin?",
+    "kategori": ["Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi kitaplar seni etkiledi?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi tarihi döneme ilgi duyarsın?",
+    "kategori": ["Sanat ve Kültür"]
+  },
+  {
+    "soru": "Bir gün boyunca ne yapmak istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "En sevdiğin film müziği nedir?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Kendini nasıl motive edersin?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hayatındaki en büyük zorluk nedir?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Bir şeyleri nasıl öğreniyorsun, öğrenme stilin nedir?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi ünlü kişinin hayatından ilham alırsın?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Geçmişte nelerden utanırsın?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi konularda fikir sahibi olmak istersin?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hayatında sana en çok ilham veren insan kimdir?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "İlişkiler ve Sosyal Hayat"]
+  },
+  {
+    "soru": "Hayatında yaptığın en büyük değişiklik neydi?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Dünyada en çok görmek istediğin yer neresidir?",
+    "kategori": ["Seyahat ve Keşif", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Bir insanın karakterinde seni en çok etkileyen özellik nedir?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "İlişkiler ve Sosyal Hayat"]
+  },
+  {
+    "soru": "Hayatında öğrendiğin en önemli ders nedir?",
+    "kategori": ["Geçmiş ve Anılar", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi korkuların var?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi dilleri biliyorsun?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Sana göre gerçek mutluluk nedir?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi sanat eserleri seni en çok etkiledi?",
+    "kategori": ["Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hayatındaki en büyük başarın neydi?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "En sevdiğin tatil nasıl geçer?",
+    "kategori": ["Seyahat ve Keşif", "Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi alanda kendini geliştirmek istersin?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Bir konuda gerçekten tutkulu musun? Nedir bu konu?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "En sevdiğin renk nedir? Neden?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Sence en romantik şey nedir?",
+    "kategori": ["İlişkiler ve Sosyal Hayat", "Genel Zevkler"]
+  },
+  {
+    "soru": "Eğer dünyadaki herkesin zekasını bir çip ile artırabilecek olsaydın, bunu yapar mıydın?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi film seni en son ağlattı?",
+    "kategori": ["Eğlence ve Medya", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi ülkede yaşamak istersin ve neden?",
+    "kategori": ["Seyahat ve Keşif", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi tatil türünü tercih edersin? (Deniz tatili, doğa tatili, kültür turu vb.)",
+    "kategori": ["Seyahat ve Keşif", "Genel Zevkler"]
+  },
+  {
+    "soru": "Kendini tanımlaman gerektiğinde hangi kelimeyi kullanırsın?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi konuda uzmanlaşmak istersin ve neden?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi ünlü kişiye benzetilirsin?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Eski sevgililerine geri dönmeyi düşünür müsün?",
+    "kategori": ["İlişkiler ve Sosyal Hayat", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi ülkeye gitmek için can atıyorsun?",
+    "kategori": ["Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Hangi sosyal medya platformunu en çok kullanıyorsun ve neden?",
+    "kategori": ["Eğlence ve Medya", "Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi yabancı dilde akıcı konuşmak istersin ve neden?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi çizgi film karakterine benzetilirsin?",
+    "kategori": ["Genel Zevkler", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "En son ne zaman kendi kendine konuştun?",
+    "kategori": ["Genel Zevkler", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi müzik türünü en seversin?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi tarihi dönemde yaşamak isterdin ve neden?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi yazarın kitaplarını en çok seversin?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi sosyal sorun seni en çok rahatsız ediyor?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi hayvanın güçlerini kazanmak istersin ve neden?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Eğer zaman yolculuğu yapabilseydin, hangi döneme gitmek isterdin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi spor dalını yapmaktan hoşlanırsın?",
+    "kategori": ["Hobiler ve Spor"]
+  },
+  {
+    "soru": "En son ne zaman saçma bir korkun vardı?",
+    "kategori": ["Geçmiş ve Anılar", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi ünlü kişinin hayatını filme çekmek isterdin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Eğlence ve Medya", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi film karakterine aşıksın?",
+    "kategori": ["Eğlence ve Medya", "İlişkiler ve Sosyal Hayat"]
+  },
+  {
+    "soru": "En son okudğun kitap neydi?",
+    "kategori": ["Eğlence ve Medya", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi müzik aletini öğrenmek istersin?",
+    "kategori": ["Hobiler ve Spor", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi ünlüyü tanımak istersin ama asla onunla flört etmek istemezsin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "İlişkiler ve Sosyal Hayat"]
+  },
+  {
+    "soru": "Hangi kurgusal karakter senin için en cazip olanıdır?",
+    "kategori": ["Eğlence ve Medya", "İlişkiler ve Sosyal Hayat"]
+  },
+  {
+    "soru": "Bir müzik festivalinde neler giyersin?",
+    "kategori": ["Genel Zevkler", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi ünlü ile bir araba yolculuğu yapmak istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "İlişkiler ve Sosyal Hayat"]
+  },
+  {
+    "soru": "Hangi filmin seni en çok etkiledi?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Bir şarkı sözü yazacak olsan, ne hakkında olurdu?",
+    "kategori": ["Sanat ve Kültür", "Hobiler ve Spor", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi müzik aletini çalmak istersin?",
+    "kategori": ["Hobiler ve Spor", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hayatında hiç yasadığın en komik anı neydi?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Eski sevgilinin en büyük eksikliği neydi?",
+    "kategori": ["İlişkiler ve Sosyal Hayat", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi kahramanlık hikayesi seni en çok etkiledi?",
+    "kategori": ["Eğlence ve Medya", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi hayvanın süper gücüne sahip olmak istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi ünlü ile birlikte bir sahne performansı yapmak istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi yemeği en seversin ve neden?",
+    "kategori": ["Yemek ve Mutfak"]
+  },
+  {
+    "soru": "Hangi ünlü ile birlikte bir tatil yapmak istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Bir kurgusal karakterle bir gün geçirmek için kim olurdu?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "En sevdiğin tatil nereye gitmek ve neden?",
+    "kategori": ["Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Hangi şarkıda kendini bulursun?",
+    "kategori": ["Eğlence ve Medya", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi kurgusal evrende yaşamak isterdin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi kurgusal karakterle en iyi arkadaş olursun?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Eğlence ve Medya", "İlişkiler ve Sosyal Hayat"]
+  },
+  {
+    "soru": "Hangi ünlüyle birlikte bir yemek partisinde olmak istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "İlişkiler ve Sosyal Hayat"]
+  },
+  {
+    "soru": "Bir çizgi film karakteriyle ilişki yaşayan birini yargılar mısın?",
+    "kategori": ["İlişkiler ve Sosyal Hayat", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi kurgusal karakterin kıyafetlerini giymek istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Eğlence ve Medya", "Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi ünlünün hayatını okumak istersin?",
+    "kategori": ["Eğlence ve Medya", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi kurgusal evrende bir maceraya çıkmak istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi tarihi kişilikle bir yemek yemek istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi şarkı sözü seni en çok etkiler?",
+    "kategori": ["Eğlence ve Medya", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi kurgusal karakterin hayatını yaşamak isterdin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "Gece hayatın var mı?",
+    "kategori": ["İlişkiler ve Sosyal Hayat", "Genel Zevkler"]
+  },
+  {
+    "soru": "Yakın kız/erkek arkadaşın var mı, aynı evde kaldığın oluyor mu?",
+    "kategori": ["İlişkiler ve Sosyal Hayat"]
+  },
+  {
+    "soru": "Kitap okuyor musun?",
+    "kategori": ["Eğlence ve Medya", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Sevgilin olduğunda sosyal medya hesapalarında paylaşıyor musun?",
+    "kategori": ["İlişkiler ve Sosyal Hayat", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hiç kendi ses kaydını dinledin mi? Nasıl hissettin?",
+    "kategori": ["Geçmiş ve Anılar", "Genel Zevkler"]
+  },
+  {
+    "soru": "İlk defa hangi yaşta telefon aldın?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "En sevdiğin çizgi film karakteri kimdir? Neden?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Bir arkadaşın hakkında neyi seviyorsun? Ne yaparsa seni mutlu eder?",
+    "kategori": ["İlişkiler ve Sosyal Hayat", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Bir kitap okuyor musun şu anda? Hangisi ve nasıl buluyorsun?",
+    "kategori": ["Eğlence ve Medya", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi yemeği en seversin? Kendi yapmayı denedin mi?",
+    "kategori": ["Yemek ve Mutfak", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "En son ne zaman ağladın? Neden?",
+    "kategori": ["Geçmiş ve Anılar", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "En sevdiğin müzik tarzı nedir? Hangi şarkıcıları seversin?",
+    "kategori": ["Eğlence ve Medya", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "En son ne zaman bir şeyler öğrendin? Ne öğrendin?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Bir süper gücün olsa ne olmasını isterdin? Neden?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "En çok hangi meyveyi seversin? Neden?",
+    "kategori": ["Yemek ve Mutfak"]
+  },
+  {
+    "soru": "Dünya turuna çıksan hangi ülkeyi ilk ziyaret ederdin? Neden?",
+    "kategori": ["Seyahat ve Keşif", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi film karakterine en çok benziyorsun? Neden?",
+    "kategori": ["Eğlence ve Medya", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Bir şarkı yazacak olsan hangi konu hakkında yazardın? Neden?",
+    "kategori": ["Sanat ve Kültür", "Hobiler ve Spor", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "En sevdiğin renk nedir? Hangi nesnede bu rengi görmek seni mutlu eder?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Bir müze açacak olsan hangi konuyu seçerdin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "İlk kez hangi yaşta aşık oldun?",
+    "kategori": ["Geçmiş ve Anılar", "İlişkiler ve Sosyal Hayat"]
+  },
+  {
+    "soru": "En son ne zaman bir şeyler öğretmeye çalıştın? Ne öğrettin?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi hayvanı seversin? Hangi özellikleri seni çeker?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi sporu en seversin? Hangi takımı tutarsın?",
+    "kategori": ["Hobiler ve Spor"]
+  },
+  {
+    "soru": "Bir şeyler yaparken en çok neyden etkilenirsin? Müzik mi, sessizlik mi, doğa mı?",
+    "kategori": ["Genel Zevkler", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi mevsimi en çok seversin? Neden?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "En sevdiğin oyun hangisi? Hangi özellikleri seni cezbeder?",
+    "kategori": ["Eğlence ve Medya", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "En sevdiğin tatlı nedir? Kendin yapmayı denedin mi?",
+    "kategori": ["Yemek ve Mutfak", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi kelimeyi en çok kullanırsın?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi tür müzikleri dinlemeyi seversin?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "En sevdiğin tatil yeri hangisi?",
+    "kategori": ["Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Okuduğun en iyi kitap hangisiydi?",
+    "kategori": ["Eğlence ve Medya", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi sporu yapmaktan hoşlanırsın?",
+    "kategori": ["Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi yabancı dilde daha iyi konuşuyorsun?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Öğrencilik yıllarından en unutulmaz anın nedir?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hayatında en büyük riski ne zaman aldın?",
+    "kategori": ["Geçmiş ve Anılar", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi ülkeye seyahat etmek istersin?",
+    "kategori": ["Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Hangi oyunları oynamaktan hoşlanırsın?",
+    "kategori": ["Eğlence ve Medya", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi hayvanlardan korkarsın?",
+    "kategori": ["Genel Zevkler", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "En sevdiğin sporcu kimdir?",
+    "kategori": ["Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi sanat dalı seni en çok etkiler?",
+    "kategori": ["Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hobilerin nelerdir?",
+    "kategori": ["Hobiler ve Spor"]
+  },
+  {
+    "soru": "En sevdiğin çocukluk oyunu nedir?",
+    "kategori": ["Geçmiş ve Anılar", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi ünlüyle tanışmak isterdin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi kitabı en son okudun?",
+    "kategori": ["Eğlence ve Medya", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi tür filmleri izlemekten hoşlanırsın?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi yiyecekleri sevmezsin?",
+    "kategori": ["Yemek ve Mutfak"]
+  },
+  {
+    "soru": "En sevdiğin müze hangisidir?",
+    "kategori": ["Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi aktiviteleri yapmaktan hoşlanırsın?",
+    "kategori": ["Hobiler ve Spor", "Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi spor dalını daha fazla takip edersin?",
+    "kategori": ["Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi tatil aktiviteleri seni mutlu eder?",
+    "kategori": ["Seyahat ve Keşif", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Hangi film karakterine en çok benzediğini düşünüyorsun?",
+    "kategori": ["Eğlence ve Medya", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "En sevdiğin kahve türü nedir?",
+    "kategori": ["Yemek ve Mutfak"]
+  },
+  {
+    "soru": "Hangi özelliklerin seni en iyi tanımlar?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi yaratıcı projelerde yer aldın?",
+    "kategori": ["Geçmiş ve Anılar", "Hobiler ve Spor", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi konuda uzmanlaşmak istersin?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi kişisel başarın seni en çok gururlandırır?",
+    "kategori": ["Geçmiş ve Anılar", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi spora ilgin var ama henüz deneyemedin?",
+    "kategori": ["Hobiler ve Spor", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi film seni son zamanlarda etkiledi?",
+    "kategori": ["Eğlence ve Medya", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi becerilerin en iyisi olduğunu düşünüyorsun?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi ülkede yaşamak istemezsin?",
+    "kategori": ["Seyahat ve Keşif", "Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi şehirde doğdun ve büyüdün?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi dersleri sevmezsin?",
+    "kategori": ["Geçmiş ve Anılar", "Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi olay seni en çok etkiledi?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi müzik aletlerini çalmayı öğrenmek istersin?",
+    "kategori": ["Hobiler ve Spor", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi yabancı ülkeleri ziyaret ettiğini hatırlıyor musun?",
+    "kategori": ["Seyahat ve Keşif", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi evcil hayvanları seversin?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi yemeği yeme konusunda en titizsin?",
+    "kategori": ["Yemek ve Mutfak", "Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi tarihi kişiliği daha çok merak edersin?",
+    "kategori": ["Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi animasyon filmleri seversin?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi meşhur kişiyle tanışmak istersin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hayatındaki en büyük risk neydi?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Kaç dil konuşabiliyorsun? Hangileri?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "En sevdiğin spor hangisi? Neden?",
+    "kategori": ["Hobiler ve Spor"]
+  },
+  {
+    "soru": "En sevdiğin yazar/yazarlar kimlerdir?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi müzik türlerini dinlemekten hoşlanırsın?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Bir tatil için gitmek istediğin en iyi yer neresidir?",
+    "kategori": ["Seyahat ve Keşif"]
+  },
+  {
+    "soru": "En sevdiğin kitaplar nelerdir?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "En sevdiğin hobin ne? Neden?",
+    "kategori": ["Hobiler ve Spor"]
+  },
+  {
+    "soru": "Bir süper güç kazansan ne yapardın?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi tarihi döneme gitmek isterdin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "En sevdiğin hayvan hangisi? Neden?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi film karakteri seni en çok etkiledi?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Bir şeyi değiştirebilseydin neyi değiştirirdin?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "En sevdiğin meyve/sebze nedir?",
+    "kategori": ["Yemek ve Mutfak"]
+  },
+  {
+    "soru": "Hangi doğal güzellikleri ziyaret etmek istersin?",
+    "kategori": ["Seyahat ve Keşif"]
+  },
+  {
+    "soru": "En sevdiğin şarkıcı/grup kimdir?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi ilginç yeteneklere sahipsin?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Bir seyahat yapma imkanın olsa, nereye gitmek isterdin?",
+    "kategori": ["Seyahat ve Keşif", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi yaratıcı faaliyetlerde bulunmaktan hoşlanırsın?",
+    "kategori": ["Hobiler ve Spor", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "En sevdiğin sosyal medya platformu nedir?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hangi ülkeleri ziyaret ettiğinde kendini evinde gibi hissettin?",
+    "kategori": ["Seyahat ve Keşif", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi müze veya sergiyi ziyaret etmek istersin?",
+    "kategori": ["Sanat ve Kültür", "Seyahat ve Keşif"]
+  },
+  {
+    "soru": "Hangi tür kitapları okumaktan hoşlanırsın?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Bir gününün nasıl geçtiğini anlatır mısın?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Hangi karakter özelliklerine sahip insanlarla arkadaş olmaktan hoşlanırsın?",
+    "kategori": ["İlişkiler ve Sosyal Hayat", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi alışkanlıkların var?",
+    "kategori": ["Genel Zevkler", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi spora başlamak istersin?",
+    "kategori": ["Hobiler ve Spor", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "En son izlediğin film nedir? Nasıl buldun?",
+    "kategori": ["Eğlence ve Medya", "Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hayatında en çok neye bağımlı olduğunu düşünüyorsun?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Genel Zevkler"]
+  },
+  {
+    "soru": "Birbirimizi daha iyi tanımak için hangi filmi izlemeliyiz?",
+    "kategori": ["İlişkiler ve Sosyal Hayat", "Eğlence ve Medya"]
+  },
+  {
+    "soru": "Hayatında yaptığın en cesur şey nedir?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi ülkeyi gezme hayalin var?",
+    "kategori": ["Seyahat ve Keşif", "Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi müzik türü seni en çok etkiliyor?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Aile üyelerinle aran nasıl?",
+    "kategori": ["İlişkiler ve Sosyal Hayat"]
+  },
+  {
+    "soru": "Sana hayatında en çok ilham veren kişi kim?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "İlişkiler ve Sosyal Hayat"]
+  },
+  {
+    "soru": "Hayatında pişmanlık duyduğun bir şey var mı?",
+    "kategori": ["Geçmiş ve Anılar", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "En sevdiğin tatil aktivitesi nedir?",
+    "kategori": ["Seyahat ve Keşif", "Hobiler ve Spor"]
+  },
+  {
+    "soru": "Bir şarkıyı hangi durumlarda dinlersin?",
+    "kategori": ["Eğlence ve Medya", "Genel Zevkler"]
+  },
+  {
+    "soru": "En beğendiğin kitap nedir?",
+    "kategori": ["Eğlence ve Medya"]
+  },
+  {
+    "soru": "Geçmişte yaşadığın en komik anı nedir?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hangi özelliğin senin için en önemli?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hayatta gerçekleştirmek istediğin bir hedefin var mı?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar", "Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Bir öğrenme sürecinde en çok hangi yöntemi tercih edersin?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi mevsim senin için en güzeli?",
+    "kategori": ["Genel Zevkler"]
+  },
+  {
+    "soru": "Hayatında karşılaştığın en büyük zorluğun neydi?",
+    "kategori": ["Geçmiş ve Anılar"]
+  },
+  {
+    "soru": "Hayalindeki iş nedir?",
+    "kategori": ["Hayaller ve Hipotetik Durumlar"]
+  },
+  {
+    "soru": "Hangi hayvan seni en çok temsil eder?",
+    "kategori": ["Kişisel Gelişim ve Değerler"]
+  },
+  {
+    "soru": "Hangi yabancı dilde kendini yetkin hissediyorsun?",
+    "kategori": ["Kişisel Gelişim ve Değerler", "Sanat ve Kültür"]
+  },
+  {
+    "soru": "Hangi yaratıcı hobilerle ilgilenirsin?",
+    "kategori": ["Hobiler ve Spor", "Sanat ve Kültür"]
+  }
+]

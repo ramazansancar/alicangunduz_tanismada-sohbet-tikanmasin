@@ -14,15 +14,37 @@ let banner = document.getElementById("banner");
 let bannerButton = document.getElementById("banner-button");
 let whatsAppGonder = document.getElementById("whatsAppGonder");
 let contributors = document.getElementById("contributors");
+let kategoriSec = document.getElementById("kategoriSec");
 
 // Soruları tutacağımız dizi & soru indexlerini tutacağımız dizi
 const sorular = [];
 const soruIndexler = [];
+let filtreliSorular = [];
+let aktifKategori = "";
+
+// Kategorileri select'e ekle
+function kategorileriDoldur() {
+  // Tüm kategorileri tek bir diziye topla ve benzersiz hale getir
+  const kategoriler = [...new Set(sorular.flatMap(s => Array.isArray(s.kategori) ? s.kategori : [s.kategori]))];
+  kategoriSec.innerHTML = '<option value="">Tümü</option>' +
+    kategoriler.map(k => `<option value="${k}">${k}</option>`).join("");
+}
+
+// Kategoriye göre filtrele
+function kategoriyeGoreFiltrele(kategori) {
+  if (!kategori) {
+    filtreliSorular = [...sorular];
+  } else {
+    filtreliSorular = sorular.filter(s => Array.isArray(s.kategori) ? s.kategori.includes(kategori) : s.kategori === kategori);
+  }
+  // Sıfırla
+  soruIndexler.length = 0;
+}
 
 // Soru sayısı üretir
 function soruSayisiUret() {
   let index;
-  if (sorular.length === soruIndexler.length) {
+  if (filtreliSorular.length === soruIndexler.length) {
     // Sorular bittiğinde boşalt
     genelAlan.style.display = "none";
     sorularBitti.style.display = "";
@@ -31,7 +53,7 @@ function soruSayisiUret() {
     }, 5000);
   } else {
     do {
-      index = Math.floor(Math.random() * sorular.length);
+      index = Math.floor(Math.random() * filtreliSorular.length);
     } while (soruIndexler.includes(index)); // daha önce üretilmişse tekrar dene
     soruIndexler.push(index);
     return index;
@@ -52,23 +74,22 @@ function oncekiButtonKontrol() {
   }
 }
 
-// XMLHttpRequest (XHR) kullanarak sorular.json dosyasını okuyoruz
+// XMLHttpRequest (XHR) kullanarak qWc.json dosyasını okuyoruz
 const xhr = new XMLHttpRequest();
-xhr.open("GET", "../json/sorular.json", true);
+xhr.open("GET", "../json/qWc.json", true);
 xhr.responseType = "json";
 
 xhr.onload = function () {
   // JSON verilerini bir objeye atıyoruz
   const sorularObj = xhr.response;
 
-  // sorular dizisini oluşturuyoruz ve sorularObj içindeki verileri diziye aktarıyoruz
-  for (let soru in sorularObj) {
-    sorular.push(sorularObj[soru]);
-  }
-
-  // Site açıldığında rastgele bir soru gösterir
-  soruAlani.innerHTML = sorular[soruSayisiUret()];
-  soruAdeti.innerHTML = `<p>Güncel soru sayısı : <span class="soruSayisi"> ${sorular.length}</span>
+  // sorular dizisini doğrudan dizi olarak ekliyoruz
+  sorular.push(...sorularObj);
+  kategoriyeGoreFiltrele("");
+  kategorileriDoldur();
+  const ilkSayi = soruSayisiUret();
+  soruAlani.innerHTML = filtreliSorular[ilkSayi].soru;
+  soruAdeti.innerHTML = `<p>Güncel soru sayısı : <span class="soruSayisi"> ${filtreliSorular.length}</span>
   <br>
   Gösterilen soru sayısı : <span class="soruSayisi"> ${soruIndexler.length}</span></p>`;
 };
@@ -80,11 +101,27 @@ document.addEventListener("click", function (e) {
   oncekiButtonKontrol();
 });
 
+// kategori seçildiğinde soruları filtrele
+kategoriSec.addEventListener("change", function () {
+  aktifKategori = kategoriSec.value;
+  kategoriyeGoreFiltrele(aktifKategori);
+  if (filtreliSorular.length > 0) {
+    const sayi = soruSayisiUret();
+    soruAlani.innerHTML = filtreliSorular[sayi].soru;
+    soruAdeti.innerHTML = `<p>Güncel soru sayısı : <span class="soruSayisi"> ${filtreliSorular.length}</span>
+    <br>
+    Gösterilen soru sayısı : <span class="soruSayisi"> ${soruIndexler.length}</span></p>`;
+  } else {
+    soruAlani.innerHTML = "Bu kategoride soru yok.";
+    soruAdeti.innerHTML = "";
+  }
+});
+
 // soruUret düğmesine tıklanıldığında rastgele bir soru gösterir
 soruUret.addEventListener("click", function () {
   sayi = soruSayisiUret();
-  soruAlani.innerHTML = sorular[sayi];
-  soruAdeti.innerHTML = `<p>Güncel soru sayısı : <span class="soruSayisi"> ${sorular.length}</span>
+  soruAlani.innerHTML = filtreliSorular[sayi].soru;
+  soruAdeti.innerHTML = `<p>Güncel soru sayısı : <span class="soruSayisi"> ${filtreliSorular.length}</span>
   <br>
   Gösterilen soru sayısı : <span class="soruSayisi"> ${soruIndexler.length}</span></p>`;
 });
@@ -119,7 +156,7 @@ oncekiSoru.addEventListener("click", function () {
   if (oncekiSoruKontrol()) {
     soruAlani.innerHTML = "İyi anarya yaptın he :)";
   } else {
-    soruAlani.innerHTML = sorular[soruIndexler[soruIndexler.length - 1]];
+    soruAlani.innerHTML = filtreliSorular[soruIndexler[soruIndexler.length - 1]].soru;
   }
 });
 
